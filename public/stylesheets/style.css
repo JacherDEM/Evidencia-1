@@ -1,0 +1,23 @@
+.header {
+  background-color: black;
+  height: 55px;
+}
+
+.indice {
+  width: 300px;
+  background-color: pink;
+  position: fixed;
+  translate: (300px, -55px);
+  height:1200px;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+.body{
+  background-color: blue;
+  height: 1000000px;
+  width: 1463px;
+}
